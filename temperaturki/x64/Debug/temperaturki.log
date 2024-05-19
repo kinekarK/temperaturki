@@ -1,0 +1,4 @@
+﻿  temperaturki.cpp
+C:\Users\Admin\Documents\temperaturki\temperaturki.cpp(62,21): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Admin\Documents\temperaturki\temperaturki.cpp(68,32): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  temperaturki.vcxproj -> C:\Users\Admin\Documents\temperaturki\x64\Debug\temperaturki.exe
